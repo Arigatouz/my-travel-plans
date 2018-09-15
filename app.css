@@ -41,7 +41,7 @@ body {
 }
 
 h2 {
-color: red ;
+
     margin: 0;
     transform: rotate(-45deg);
     text-shadow: 0 0 5px #01579b;
@@ -49,7 +49,7 @@ color: red ;
 
 #florida {
     background-color: #03a9f4;
-    color: red ;
+    
 }
 
 #paris {
